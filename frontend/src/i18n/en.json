@@ -1,0 +1,65 @@
+{
+  "appTitle": "Nagar Nigam Complaint Tracker",
+  "navHome": "Home",
+  "navRegister": "Register Complaint",
+  "navTrack": "Track",
+  "navLogin": "Login",
+  "navMy": "My Complaints",
+  "navAdmin": "Admin",
+  "logout": "Logout",
+
+  "homeHeading": "Helping citizens track complaints online",
+  "homeDesc": "Register your complaint, upload photos, share location and track progress with a tracking code.",
+
+  "homeHeroTitle": "Helping Citizens Track Complaints Online",
+  "homeHeroDesc": "Say goodbye to repeated office visits! With our smart tracking system, you can register and track Nagar Nigam complaints right from your home—anytime, anywhere.",
+
+  "aboutTitle": "About This Platform",
+  "aboutDesc": "This platform empowers citizens by providing an easy-to-use complaint management system for municipal services. Our mission is to bridge the communication gap between the Nagar Nigam and the public using digital innovation.",
+
+  "featuresTitle": "Key Features",
+  "f1": "Real-Time Status",
+  "f1d": "Track your complaint live with status updates at every stage of the resolution process.",
+  "f2": "Photo Upload",
+  "f2d": "Upload a photo of the issue so authorities can better understand and respond effectively.",
+  "f3": "GPS Location",
+  "f3d": "Auto-fetch your location so complaints can be accurately mapped to your area.",
+  "f4": "Quick Registration",
+  "f4d": "Register your complaint within seconds with our simplified and mobile-friendly form.",
+  "f5": "Instant Notifications",
+  "f5d": "Receive SMS or Email alerts when your complaint status changes.",
+  "f6": "Admin Dashboard",
+  "f6d": "Admin users can manage, assign, and resolve complaints through a centralized dashboard.",
+
+  "ctaTitle": "Start Reporting Today",
+  "ctaDesc": "Join thousands of citizens already making a difference in their neighborhoods!",
+  "ctaBtn": "Register a Complaint",
+  "footerText": "Nagar Nigam Complaint Tracker. All rights reserved.",
+
+  "registerHeading": "Register a Complaint",
+  "category": "Category",
+  "description": "Description",
+  "address": "Address",
+  "ward": "Ward",
+  "latitude": "Latitude",
+  "longitude": "Longitude",
+  "useLocation": "Use my location",
+  "attachments": "Attachments",
+  "submit": "Submit",
+
+  "trackHeading": "Track Complaint",
+  "trackingCode": "Tracking Code",
+  "search": "Search",
+
+  "loginHeading": "Login",
+  "loginRequired": "Please login to track your complaint.",
+  "goToLogin": "Go to Login",
+  "emailOrPhone": "Email or Phone",
+  "password": "Password",
+  "register": "Register",
+
+  "adminHeading": "Admin Dashboard",
+  "status": "Status",
+  "comment": "Comment",
+  "update": "Update"
+}
